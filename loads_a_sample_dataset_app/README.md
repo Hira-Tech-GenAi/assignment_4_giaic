@@ -48,7 +48,7 @@ The `app.py` script includes the following components:
 
 ## 🙌 Acknowledgments
 
-* Built by Hira Khalid with [Streamlit](), an open-source Python library for web applications ❤️.
+* Built by Hira Khalid with [Streamlit](https://assignment4giaic-jitgffym2m3gyrzyvbepsr.streamlit.app/), an open-source Python library for web applications ❤️.
 * Inspired by tutorials on rapid web app development with Streamlit 🌟.
 
 Happy analyzing! 🎈
